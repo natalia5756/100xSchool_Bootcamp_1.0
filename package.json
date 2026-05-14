@@ -1,6 +1,6 @@
 {
   "name": "100xschool-bootcamp-1.0",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "description": "100xdevs Bootcamp 1.0 @hkirat Contains All the Assignments and Notes. ( WebDev + DevOps, AI and ML, Web3, DSA ) ",
   "main": "src/index.js",
   "scripts": {
